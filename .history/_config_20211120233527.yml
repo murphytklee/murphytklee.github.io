@@ -1,0 +1,282 @@
+title: hena's dev portfolio
+name: HENA LEE
+email: hyesue12@gmail.com
+description: >-
+  Web Developer & Java Backend 
+
+
+baseurl: ""
+url: "https://hyesue-lee.github.io/portfolioTest/"
+
+
+# profile 이미지
+profile_image: images/cheers_hena.png
+
+
+# SNS 아이디
+#facebook_id: babycheetah
+instagram_id: hena__moon
+
+
+# Youtube vid
+youtube_vid: #
+
+
+# Custom Color
+primary: 0B0719 #메인 폰트 컬러 
+primary_hover: 44A4F2 #메인 버튼색 
+color_1: CF94D8 #bar1
+color_2: CF94D8 #bar2
+color_3: CF94D8 #bar3
+color_4: CF94D8 #bar4 
+color_5: CF94D8
+color_6: CF94D8
+
+
+# slider type 0  (텍스트가 우측 정렬된 슬라이더)
+slider_0: # 형식에 맞추어 항목 추가
+- background_url: images/main3.jpeg
+  title:  Welcome <br> To my <br> Portfolio
+  position: absolute
+  transform: translate (-30%, -30%)
+  left: 100px;
+  bottom: 100px;
+
+
+# slider type 1  (텍스트가 좌측 정렬된 슬라이더)
+slider_1: # 형식에 맞추어 항목 추가
+- background_url: images/img2.png
+  title: JAVA Web <br> Backend Developer
+  subtitle: >- 
+    JAVA/<br>
+    Spring Framework<br>
+    JSP / Jquery
+    html/css/js<br>
+    orcle/mysql<br>
+    Linux <br>
+  position: absolute
+  transform: translate (-50%, -50%)
+  left: 0px;
+  bottom: 0px;
+  
+    
+
+
+# About
+about_meta: About Me
+about_header: >- 
+  "Just do it and take it"
+#about_introduce: >-
+  
+about_content: >-
+  새로운 것에 도전하고 탐구하는 것을 즐깁니다. <br>
+  컴퓨터에 호기심이 많았던 저는 컴퓨터공학과로 진학하여 IT기초 소양을 다졌습니다. 이후 IT기술과 경영의 융합 가치에 관심을 가지고 경영정보시스템(MIS)수업을 들으며 실제 기업경영에서 
+  IT기술이 어떤식으로 적용되는지 배웠습니다. 또한 개발동아리 활동을 병행하며 기술력, 그 이상의 잠재력을 가진 개발자가 되고자 부단히 노력해왔습니다.
+  첫 직장에서는 개발 기획 업무를 맡아 개발자의 상대 입장이 되어 안목을 넓혔고, 더 큰 세상을 경험하고자 퇴사 후 아일랜드로 떠나 학업과 일을 병행하며 새로운 삶을 살아보기도 했습니다. <br>
+  이처럼 늘 새로운 것에 도전하고 적응해내어 목표를 달성하는 저의 성향은 급변하는 IT환경에 잘 적응하고 도전을 멈추지 않는 개발자로 성장할 수 있는 원천이 될 것입니다. <br>
+  <strong>이제는 다양한 경험을 토대로 제 분야에서 전문가가 되고자 합니다.</strong> <br>
+  이를 위해 최근 총 6개월간의 NCS JAVA Spring 웹개발 교육과정 동안 성실하게 임하며 Spring framework를 활용한 웹사이트 개발을 완료하고, 목표를 달성하였습니다. 저의 도전정신과 탐구본능으로 끊임없이 성장하는 개발자가 되겠습니다.<br>
+
+about_services: # 형식에 맞추어 항목 추가
+- icon: icon-code
+  name: Java
+- icon: icon-data
+  name: Server
+- icon: icon-monitor
+  name: Web
+- icon: icon-phone3
+  name: App
+
+##about_box_content: 괜찮은 문구 <br>박스 색바꾸는 yml파일에 추가 <br><br><br>야물파일로 변환 <strong>의뢰</strong>의뢰
+##about_box_button:
+##  link: #
+##  name: sample
+
+
+# Tech  skill
+tech_meta: TECH SKILLS
+tech_header: "The Skills that I can do"
+tech_content: 저는 이런 것을 할 수 있습니다. 
+tech_list: # 형식에 맞추어 항목 추가
+- name: JAVA
+  color: color-1
+  animation: fadeInLeft
+  percent: 80
+  mark: 60
+  content: JAVA 기초, 객제 지향 언어의 기본적인 문법에 대해 알고 있으며, 자료구조 및 알고리즘을 자바로 공부하였습니다.
+- name: Spring Framwork
+  color: color-2
+  animation: fadeInRight
+  percent: 60
+  mark: 20
+  content: Spring 웹 프로젝트 경험으로 Spring framework의 전반적인 구조에 대해서 이해하고 있습니다.
+- name: AWS
+  color: color-3
+  animation: fadeInLeft
+  percent: 20
+  mark: 20
+  content: AWS 서버에 tomcat을 사용하여 배포 및 서비스 한 경험이 있습니다. 
+- name: Github
+  color: color-4
+  animation: fadeInRight
+  percent: 30
+  mark: 30
+  content: 대부분의 프로젝트를 github를 통해 소스 코드를 관리하였으며, 협업 역시 github을 통해 진행하였습니다. 또한 github서버를 활용하여 블로그 및 포트폴리오 사이트를 관리합니다.
+tech_desc: 앞으로 연구한것을 서비스화하기 위해서 <strong>javascript, Node JS, 리엑트, 스피링, 헤로쿠, python anywhere 및 아마존 AWS, docker</strong>등을 계속해서 조금씩 공부할 생각입니다. 
+
+
+# Project
+project_meta: My Work
+project_header: PROJECT
+project_introduce: <span>개인 프로젝트</span><span>팀 프로젝트</span>
+project_load_more: 앞으로 더 많은 프로젝트가 추가될 예정입니다:)    # 더보기 내용
+project_load_more_url: #
+
+project_my_name: 개인 프로젝트
+
+project_my: # 형식에 맞추어 항목 추가
+- background_url: images/spring.png
+  animation: fadeInLeft
+  name: Spring WEB site
+  description: Spring Framework를 활용한 웹사이트 제작 프로젝트 입니다.
+  detail_url: #
+  readmore_url: #
+
+- background_url: images/bog.png
+  animation: fadeInLeft
+  name: DEV githib blog
+  description: 깃 블로그를 직접 개발하여 배운 것들을 꾸준히 기록하며 배움을 나눕니다. 
+  detail_url: https://hyesue-lee.github.io/
+  readmore_url: #
+
+project_team_name: 팀 프로젝트
+project_team: # 형식에 맞추어 항목 추가
+- background_url: images/personal_project1.PNG
+  animation: fadeInRight
+  name: 딥러닝 불량품 검출(2021.04)
+  description: 공장에서 만들어내는 부품의 데이터를 통해 불량품을 검출하는 프로젝트입니다. 
+  detail_url: #
+  readmore_url: #
+
+- background_url: images/team_project3.PNG
+  animation: fadeInRight
+  name: sasdasdasdsadsagjghkukt(2020.05)
+  description: 2019년 드론기술발전에 따른 드론관련 사고들이 많아지고 있음을 파악하고 그에따른 대처가 필요하다고 생각 하여 인공지능을 이용한 Anti Drone Robot 을 개발하였습니다.
+  detail_url: #
+  readmore_url: #
+
+project_business_name: Business
+project_business: # 형식에 맞추어 항목 추가
+- background_url: images/my_business.PNG
+  animation: fadeInTop
+  name: 인프런강의(2021~)
+  description: >-
+    취준과 대학원진학을 동시에 했을때 많은 곳에서 github 주소뿐만아니라 개발 블로그주소도 요청하는데가 많았다.(물론 필수는 아니였지만) 
+    또한 교육기관(멋쟁이사자처럼,네이버 부스트 캠프, 소마등)에서도 마찬가지이다. 현재 프로그래밍의 중요도가 올라가고있으며 초등학생부터 의무교육을 시작한다고 한다. 
+    많은 비전공자들이 뒤늦게 프로그래밍을 시작하고 있다. 열심히 배우고 지원할려니 개발 블로그를 요청한다... 프로그래밍을 시작할때 알았다면 얼마나 좋았을까. 
+    공부하면서 블로그 내용을 채웠으면 참 좋았을것이다. 이런 흐름을 캐치하여 나는 개발자다운 블로그인 깃헙블로그를 만드는 짧은 강의를 만들었다. 
+  detail_url: #
+  readmore_url: #
+
+
+# Experience
+exp_meta: What have I achieved?
+exp_header: 저는 이런 "경험"들을 해봤습니다.
+exp_content: 기술력 외에도 이러한 역량을 겸비하고 있습니다. 
+exp_services: # 형식에 맞추어 항목 추가
+- name: 매니지먼트
+  color: color-2
+  icon: icon-bulb
+  content: 프로젝트에서 팀장을 맡아 각 팀원들의 강점을 살려 업무를 배정하고 관리하였습니다.
+- name: 기술습득
+  color: color-2
+  icon: icon-home
+  content: 제가 선택한 길, 항상 열정을 다해 공부하며 새로운 기술에 대해 즐거운 마음으로 배웁니다.
+- name: 소통력
+  color: color-3
+  icon: icon-phone3
+  content: 개발은 협업으로 이루어지므로 소통이 중요하다고 생각합니다. 활발한 성격으로 소통에 능합니다.
+exp_counters:
+- name: Subscribers
+  count: 3000
+  speed: 5000
+- name: project
+  count: 6
+  speed: 5000
+
+
+# Career
+carerr_meta: career
+career_header: Work Career
+career_list:
+- name: 네트워크 솔루션 
+  date: 2019.03~2021.07
+  content: 프로젝트 수행 및 커스터마이징 개발<br> Linux 환경의 솔루션 설치 및 구축 <br> 본인인증 연동 및 SSO / SMS API 연계 개발<br> 
+           배치 프로그램 - 사용자 및 데이터 마이그레이션<br> 조직도 인사 DB 연계 개발  <br> Atlassian 솔루션 - JIRA / Confluence 
+  color: color-2
+  icon: icon-pen2
+  animation: fadeInLeft
+- name: 개발 기획
+  date: 2015.03~2017.03
+  content: 발전설비현장 성능평가 프로그램 분석 및 설계 
+  color: color-2
+  icon: icon-pen2
+  animation: fadeInRight
+
+
+# Education
+edu_meta: Education
+edu_header: Education
+edu_list:
+- title: UNIVERSITY
+  subtitle: xx대학교 xx과 졸업
+  date: 20xx.03 - 20xx.02
+  content: 대학생활 설명 ~~ 
+- title: YEOUIDO HIGH SCHOOL
+  subtitle: xx고등학교
+  date: 20xx.03 - 20xx.02
+
+
+
+# Blog
+blog_meta: self-improvement
+blog_header: BLOG and YOUTUBE
+blog_load_more: 더 발전하기 위해 항상 노력합니다    # 더보기 내용
+blog_load_more_url: #
+blog_list:
+- title: 깃허브 블로그 
+  subtitle: 개발 블로그 운영
+  date: 2021.11
+  content: 깃 블로그를 직접 개발하여 배운 것들을 꾸준히 기록하며 배움을 나눕니다. 
+  thumbnail_url: images/blog-1.PNG
+  link: https://hyesue-lee.github.io/
+- title: 
+  subtitle: 개발 컨텐츠 유튜브 채널 운영 [치얼스헤나]
+  date: 2020.11
+  content: 유튜브 채널을 운영하며 같은 분야의 다양한 사람들과 소통하고 있습니다. 
+  thumbnail_url: images/blog-1.PNG
+  link: https://studio.youtube.com/channel/UC6YIWKSsY_J7rMYfAb7_tOw
+- title: 티스토리 블로그 
+  subtitle: 이전 블로그
+  date: 2018.03
+  content: 깃블로그 전 꾸준히 기록하였던 티스토리 첫 블로그 입니다. 
+  thumbnail_url: 
+  link: https://cheershennah.tistory.com/
+
+
+# Contact
+contact_meta: Get in Touch
+contact_header: Contact
+contact_list:
+- title: 개발 의뢰 
+  icon: icon-globe-outline
+- title: 주소
+  icon: icon-map
+- title: +82 10 xxxx xxxx
+  icon: icon-phone
+
+contact_message: <em>연락해주셔서 감사합니다.</em> 24시간이내에 회신드리도록 하겠습니다. :)
+
+
+optional_front_matter:
+  remove_originals:    true
