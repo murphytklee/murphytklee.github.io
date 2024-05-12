@@ -148,18 +148,22 @@
 									<div class="col-md-12">
 										<div class="about-desc">
 											<span class="heading-meta">About Me</span>
-											<h2 class="colorlib-heading">"Just do it and take it"</h2>
+											<h2 class="colorlib-heading">"Constant Challenges, Immersion, And Passion"</h2>
 											<p><strong></strong></p>
-											<p><span style="color:gray">(저의 신입 취준시절 이력서 자기소개 일부입니다. 참고하셔서 본인의 스토리로 어필해 주세요)</span><br><br> 새로운 것에 도전하고 탐구하는 것을 즐깁니다. <br> 컴퓨터에 호기심이 많았던 저는 컴퓨터공학과로 진학하여 IT기초 소양을 다졌습니다. 이후 IT기술과 경영의 융합 가치에 관심을 가지고 경영정보시스템(MIS)수업을 들으며 실제 기업경영에서  IT기술이 어떤식으로 적용되는지 배웠습니다. 또한 개발동아리 활동을 병행하며 기술력, 그 이상의 잠재력을 가진 개발자가 되고자 부단히 노력해왔습니다. 첫 직장에서는 개발 기획 업무를 맡아 개발자의 상대 입장이 되어 안목을 넓혔고, 더 큰 세상을 경험하고자 퇴사 후 아일랜드로 떠나 학업과 일을 병행하며 새로운 삶을 살아보기도 했습니다. <br> <strong>이처럼 늘 새로운 것에 도전하고 적응해내어 목표를 달성하는 저의 성향은 급변하는 IT환경에 잘 적응하고 도전을 멈추지 않는 개발자로 성장할 수 있는 원천이 될 것입니다. </strong><br> 이제는 다양한 경험을 토대로 제 분야에서 전문가가 되고자 합니다. 이를 위해 최근 총 6개월간의 NCS JAVA Spring 웹개발 교육과정 동안 성실하게 임하며 Spring framework를 활용한 웹사이트 개발을 완료하고, 목표를 달성하였습니다. 그 결과물을 포트폴리오로 첨부합니다. <br> bla bla ... </p>
+											<p><ul>
+  <li><strong>몰입하여 성취하는 개발자로 성장하겠습니다.</strong> League of Legends 프로게이머로 활동했던 경험이 있는 만큼 한 가지 일에 몰입하면 끈기와 노력 끝에 꼭 성취하는 성격입니다.</li>
+  <li><strong>근거있는 의사결정을 하려고 노력합니다.</strong> 더 효율적인 시스템을 위해 기술을 도입하거나 아키텍처를 고민할 때 타당한 이유와 결과에 대해 깊이 고민합니다.</li>
+  <li><strong>타협, 협동, 소통을 중요시 합니다.</strong> 팀원 한명 한명이 같은 목표와 생각을 가지고 움직여야 최상의 결과를 낼 수 있다고 생각합니다. 배움의 자세로 경청하고 적극적으로 의견을 전달하며 소통합니다.</li>
+</ul></p>
 										</div>
 									</div>
 								</div>
-								<div class="row">
+								<!-- <div class="row">
 									<div class="col-md-3 animate-box" data-animate-effect="fadeInLeft">
 										<div class="services color-2">
 											<span class="icon2"><i
-													class="icon-code"></i></span>
-											<h3>Java</h3>
+													class="icon-data"></i></span>
+											<h3></h3>
 										</div>
 
 									</div>
@@ -167,25 +171,25 @@
 										<div class="services color-2">
 											<span class="icon2"><i
 													class="icon-data"></i></span>
-											<h3>Server</h3>
+											<h3></h3>
 										</div>
 									</div>
 									<div class="col-md-3 animate-box" data-animate-effect="fadeInTop">
 										<div class="services color-3">
 											<span class="icon2"><i
-													class="icon-monitor"></i></span>
-											<h3>Web</h3>
+													class="icon-data"></i></span>
+											<h3></h3>
 										</div>
 
 									</div>
 									<div class="col-md-3 animate-box" data-animate-effect="fadeInBottom">
 										<div class="services color-4">
 											<span class="icon2"><i
-													class="icon-phone3"></i></span>
-											<h3>App</h3>
+													class="icon-data"></i></span>
+											<h3></h3>
 										</div>
 									</div>
-								</div>
+								</div> -->
 								<!--
 							<div class="row">
 								<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
