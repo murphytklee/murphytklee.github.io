@@ -1,25 +1,20 @@
-title: hena's dev portfolio
-name: HENA LEE
-email: hyesue12@gmail.com
+title: Murphy's dev portfolio
+name: Tae Kyeong Lee
+email: murphytklee@gmail.com
 description: >-
-  Web Developer & Java Backend 
+  Web Developer & Java Back-End 
 
 
 baseurl: ""
-url: "https://hyesue-lee.github.io/portfolioTest/"
+url: "https://murphytklee.github.io/"
 
 
 # profile 이미지
-profile_image: images/cheers_hena.png
+profile_image: images/about.jpg
 
 
 # SNS 아이디
-#facebook_id: babycheetah
-instagram_id: hena__moon
-
-
-# Youtube vid
-#youtube_vid: #
+github_id: murphytklee
 
 
 # Custom Color
