@@ -30,7 +30,7 @@ color_6: CF94D8
 
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
 slider_0: # 형식에 맞추어 항목 추가
-- background_url: images/main3.jpeg
+- background_url: images/home1.jpg
   title:  Welcome <br> To my <br> Portfolio
   position: absolute
   transform: translate (-30%, -30%)
@@ -40,15 +40,15 @@ slider_0: # 형식에 맞추어 항목 추가
 
 # slider type 1  (텍스트가 좌측 정렬된 슬라이더)
 slider_1: # 형식에 맞추어 항목 추가
-- background_url: images/img2.png
+- background_url: images/home2.jpg
   title: JAVA Web <br> Backend Developer
   subtitle: >- 
-    JAVA /<br>
+    JAVA <br>
     Spring Framework <br>
-    JSP / Jquery <br>
+    JPA / QueryDSL <br>
     html / css / js <br>
-    orcle / mysql / mariadb <br>
-    Linux / CentOS <br>
+    MySQL / mongoDB <br>
+    AWS / Docker / Kafka <br>
   position: absolute
   transform: translate (-50%, -50%)
   left: 0px;

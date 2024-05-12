@@ -103,7 +103,7 @@
 			<div id="colorlib-main">
 				<section id="colorlib-hero" class="js-fullheight" data-section="home">
 					<div class="flexslider js-fullheight">
-						<ul class="slides"><li style="background-image: url( images/main3.jpeg );"> <!-- 메인 첫번째 슬라이드 이미지 -->
+						<ul class="slides"><li style="background-image: url( images/home1.jpg );"> <!-- 메인 첫번째 슬라이드 이미지 -->
 								<div class="overlay"></div>
 								<div class="container-fluid">
 									<div class="row">
@@ -118,7 +118,7 @@
 										</div>
 									</div>
 								</div>
-							</li><li style="background-image: url( images/img2.png );"> <!-- 메인 두번째 슬라이드 이미지 -->
+							</li><li style="background-image: url( images/home2.jpg );"> <!-- 메인 두번째 슬라이드 이미지 -->
 								<div class="overlay"></div>
 								<div class="container-fluid">
 									<div class="row">
@@ -129,7 +129,7 @@
 													style="position: ; left: ; bottom:0px;; transform:translate (-50%, -50%);">
 													<h1 style='color:white;'>JAVA Web <br> Backend Developer</h1>
 													<!-- 메인 두번째 슬라이드 이미지의 소개말 에니메이션 효과 -->
-													<h2 style='color:white;'>JAVA /<br> Spring Framework <br> JSP / Jquery <br> html / css / js <br> orcle / mysql / mariadb <br> Linux / CentOS <br></h2>
+													<h2 style='color:white;'>JAVA <br> Spring Framework <br> JPA / QueryDSL <br> html / css / js <br> MySQL / mongoDB <br> AWS / Docker / Kafka <br></h2>
 												</div>
 											</div>
 										</div>
