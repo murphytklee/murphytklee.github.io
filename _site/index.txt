@@ -240,7 +240,7 @@
 											<span>60%</span>
 										</div>
 									</div>
-									<div style="margin-bottom: 70px;">JAVA 기초, 객제 지향 언어의 기본적인 문법에 대해 알고 있으며, 자료구조 및 알고리즘을 자바로 공부하였습니다.<br></div> <!-- Add margin-bottom here -->
+									<div style="margin-bottom: 70px;">JAVA 기초, 객제 지향 언어의 기본적인 문법에 대해 알고 있으며, 자료구조 및 알고리즘을 자바로 공부하였습니다.</div> <!-- Add margin-bottom here -->
 								</div>
 							</div>
 							<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
@@ -266,7 +266,7 @@
 											<span>40%</span>
 										</div>
 									</div>
-									<div style="margin-bottom: 70px;">AWS EC2(ubuntu), RDS, S3, CodeDeploy을 사용하여 서버를 배포할 수 있습니다.</div> <!-- Add margin-bottom here -->
+									<div style="margin-bottom: 70px;">AWS EC2(ubuntu), RDS, S3, CodeDeploy을 사용하여 서버를 배포할 수 있습니다. Linux 명령어를 다룰 수 있습니다.</div> <!-- Add margin-bottom here -->
 								</div>
 							</div>
 							<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
@@ -279,7 +279,7 @@
 											<span>50%</span>
 										</div>
 									</div>
-									<div style="margin-bottom: 70px;">Docker Image를 통한 CI/CD 및 Docker Swarm을 이용해 Container Orchestration을 활용한 경험이 있습니다.</div> <!-- Add margin-bottom here -->
+									<div style="margin-bottom: 70px;">Docker를 이용해 CI/CD 구축 및 Container Network, Docker File 구성에 익숙하며 Docker Swarm을 이용해 Container Orchestration을 활용한 경험이 있습니다.</div> <!-- Add margin-bottom here -->
 								</div>
 							</div>
 							<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
@@ -292,7 +292,7 @@
 											<span>60%</span>
 										</div>
 									</div>
-									<div style="margin-bottom: 70px;">MySQL의 기본 쿼리문을 활용하여 데이터베이스와 대화할 수 있습니다. MongoDB Atlas를 사용해 NoSQL Database를 구축한 경험이 있습니다.</div> <!-- Add margin-bottom here -->
+									<div style="margin-bottom: 70px;">MySQL의 기본 쿼리문을 활용하여 원하는 데이터를 추출할 수 있습니다. MongoDB Atlas를 사용해 NoSQL Database를 구축한 경험이 있습니다.</div> <!-- Add margin-bottom here -->
 								</div>
 							</div>
 							<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
@@ -305,7 +305,7 @@
 											<span>30%</span>
 										</div>
 									</div>
-									<div style="margin-bottom: 70px;">고가용성을 위한 채팅서버 클러스터링 개발을 위해 STOMP 시스템의 메세지 큐로써 Kafka를 활용했습니다.</div> <!-- Add margin-bottom here -->
+									<div style="margin-bottom: 70px;">STOMP 시스템의 메세지 큐로 Kafka와 sink connect를 활용해 비동기적인 데이터 파이프라인을 구축했습니다.</div> <!-- Add margin-bottom here -->
 								</div>
 							</div>
 							</div>
