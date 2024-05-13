@@ -20,12 +20,12 @@ github_id: murphytklee
 # Custom Color
 primary: 0B0719 #메인 폰트 컬러 
 primary_hover: 44A4F2 #메인 버튼색 
-color_1: CF94D8 #bar1
-color_2: CF94D8 #bar2
-color_3: CF94D8 #bar3
-color_4: CF94D8 #bar4 
-color_5: CF94D8
-color_6: CF94D8
+color_1: 2c98f0 #bar1
+color_2: ec5453 #bar2
+color_3: f9bf3f #bar3
+color_4: a84cb8 #bar4 
+color_5: 2fa499 #bar5
+color_6: e88bd7 #bar6
 
 
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
@@ -89,33 +89,44 @@ about_content: >-
 # Tech  skill
 tech_meta: TECH SKILLS
 tech_header: "The Skills that I can do"
-tech_content: 저는 이런 것을 할 수 있습니다. 
+# tech_content: 저는 이런 것을 할 수 있습니다. 
 tech_list: # 형식에 맞추어 항목 추가
 - name: JAVA
-  color: color-1
+  color: color-4
   animation: fadeInLeft
-  percent: 80
-  mark: 80
-  content: JAVA 기초, 객제 지향 언어의 기본적인 문법에 대해 알고 있으며, 자료구조 및 알고리즘을 자바로 공부하였습니다.
+  percent: 60
+  mark: 60
+  content: JAVA 기초, 객제 지향 언어의 기본적인 문법에 대해 알고 있으며, 자료구조 및 알고리즘을 자바로 공부하였습니다.<br>
 - name: Spring Framwork
   color: color-2
   animation: fadeInRight
-  percent: 60
-  mark: 60
-  content: Spring 웹 프로젝트 경험으로 Spring framework의 전반적인 구조에 대해서 이해하고 있습니다.
+  percent: 50
+  mark: 50
+  content: Spring 웹 프로젝트를 통해 REST API / Spring Security / Spring Data JPA를 익혔습니다.
 - name: AWS
   color: color-3
   animation: fadeInLeft
-  percent: 20
-  mark: 20
-  content: AWS 서버에 tomcat을 사용하여 배포 및 서비스 한 경험이 있습니다. 
-- name: Github
-  color: color-4
+  percent: 40
+  mark: 40
+  content: AWS EC2(ubuntu), RDS, S3, CodeDeploy을 사용하여 서버를 배포할 수 있습니다.
+- name: Docker
+  color: color-1
+  animation: fadeInRight
+  percent: 50
+  mark: 50
+  content: Docker Image를 통한 CI/CD 및 Docker Swarm을 이용해 Container Orchestration을 활용한 경험이 있습니다.
+- name: MySQL / MongoDB
+  color: color-5
+  animation: fadeInRight
+  percent: 60
+  mark: 60
+  content: MySQL의 기본 쿼리문을 활용하여 데이터베이스와 대화할 수 있습니다. MongoDB Atlas를 사용해 NoSQL Database를 구축한 경험이 있습니다.
+- name: Kafka
+  color: none
   animation: fadeInRight
   percent: 30
   mark: 30
-  content: 대부분의 프로젝트를 github를 통해 소스 코드를 관리하였으며, 협업 역시 github을 통해 진행하였습니다. 또한 github서버를 활용하여 블로그 및 포트폴리오 사이트를 관리합니다.
-tech_desc: 이 외 <strong>javascript, vue.js, python, AWS, Linux ,MSA, docker </strong> 등을 계속해서 공부할 계획입니다.<br>(또는 현재 공부중인 언어 나열 )
+  content: 고가용성을 위한 채팅서버 클러스터링 개발을 위해 STOMP 시스템의 메세지 큐로써 Kafka를 활용했습니다.
 
 
 # Project

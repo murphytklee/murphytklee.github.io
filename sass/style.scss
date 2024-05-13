@@ -14,7 +14,7 @@ $brand-color-2: #ec5453 !default;
 $brand-color-3: #f9bf3f !default;
 $brand-color-4: #a84cb8 !default;
 $brand-color-5: #2fa499 !default;
-$brand-color-6: #4054b2 !default;
+$brand-color-6: #e88bd7 !default;
 
 
 $brand-white: #fff;
@@ -548,7 +548,7 @@ body {
 
 .colorlib-heading {
 	font-size: 18px;
-	margin-bottom: 4em;
+	margin-bottom: 2em;
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: 5px;
@@ -558,7 +558,7 @@ body {
 		display: block;
 	}
 	@media screen and (max-width: $screen-sm ) {
-		margin-bottom: 3em;
+		margin-bottom: 1em;
 	}
 }
 .heading-meta{
@@ -964,7 +964,7 @@ margin-left: -20px;
 	h3{
 		font-size: 16px;
 		font-family: $font-primary;
-		margin-bottom: 10px;
+		margin-bottom: 20px;
 	}
 }
 //PROGRESS BAR

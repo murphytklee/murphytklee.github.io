@@ -27,19 +27,30 @@
 	<link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
 
-	<style>
+	<!-- <style>
 		body {
 			--primary-color: #{{ site.primary }};
 			--primary-hover-color: #{{ site.primary_hover }};
-			--color-1: #{{ site.color_1 }};
-			--color-2: #{{ site.color_2 }};
-			--color-3: #{{ site.color_3 }};
-			--color-4: #{{ site.color_4 }};
-			--color-5: #{{ site.color_5 }};
-			--color-6: #{{ site.color_6 }};
+			--color-1: #2c98f0;
+			--color-2: #ec5453;
+			--color-3: #f9bf3f;
+			--color-4: #a84cb8;
+			--color-5: #2fa499;
+			--color-6: #e88bd7;
+		}
+	</style> -->
+	<style>
+		body {
+			--primary-color: #{{site.primary}};
+			--primary-hover-color: #{{site.primary_hover}};
+			--color-1: #{{site.color_1}};
+			--color-2: #{{site.color_2}};
+			--color-3: #{{site.color_3}};
+			--color-4: #{{site.color_4}};
+			--color-5: #{{site.color_5}};
+			--color-6: #{{site.color_6}};
 		}
 	</style>
-	
 
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
@@ -156,7 +167,7 @@
 										<div class="about-desc">
 											<span class="heading-meta">{{ site.about_meta }}</span>
 											<h2 class="colorlib-heading">{{ site.about_header }}</h2>
-											<p><strong>{{ site.about_introduce }}</strong></p>
+											<!-- <p><strong>{{ site.about_introduce }}</strong></p> -->
 											<p>{{ site.about_content }}</p>
 										</div>
 									</div>
@@ -234,7 +245,7 @@
 											<span>{{ tech.percent }}%</span>
 										</div>
 									</div>
-									{{ tech.content }}
+									<div style="margin-bottom: 70px;">{{ tech.content }}</div> <!-- Add margin-bottom here -->
 								</div>
 							</div>
 							{{ e.title }}
