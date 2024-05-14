@@ -278,7 +278,7 @@
 							</div>
 						</div>
 
-						<div class="animate-box" data-animate-effect="fadeInTop">
+						<!-- <div class="animate-box" data-animate-effect="fadeInTop">
 							<strong>{{ site.project_my_name }}</strong>
 							<hr>
 						</div>
@@ -291,7 +291,7 @@
 											<h3><a href="#" target="_blank">{{ proj.name }}</a></h3>
 											<span>{{ proj.description }}</span>
 											<p class="icon">
-												<!-- <span><a href="#"><i class="icon-share3"></i></a></span> -->
+												<span><a href="#"><i class="icon-share3"></i></a></span>
 												<span><a href="{{ proj.detail_url | default: " #" }}" target="_blank"><i
 															class="icon-eye"></i> detail</a></span>
 												<span><a href="{{ proj.readmore_url | default: " #" }}"
@@ -302,7 +302,7 @@
 								</div>
 							</div>
 							{% endfor %}
-						</div>
+						</div> -->
 
 						<div class="animate-box" data-animate-effect="fadeInTop">
 							<strong>{{ site.project_team_name }}</strong>
@@ -318,10 +318,13 @@
 											<span>{{ proj.description }}</span>
 											<p class="icon">
 												<!-- <span><a href="#"><i class="icon-share3"></i></a></span> -->
-												<span><a href="{{ proj.detail_url | default: " #" }}" target="_blank"><i
-															class="icon-eye"></i> detail</a></span>
-												<span><a href="{{ proj.readmore_url | default: " #" }}"
-														target="_blank"><i class="icon-file"></i> 구현 기능 상세보기</a></span>
+												<span><a href="{{ proj.github_url }}" target="_blank"><i
+															class="icon-github"></i> Github </a></span>
+												{% if proj.readmore_url %}
+												<span><a href="{{ proj.readmore_url }}" target="_blank"><i class="icon-file"></i> Brochure </a></span>
+												{% endif %}
+												<span><a href="{{ proj.what_i_did }}"
+														target="_blank"><i class="icon-eye"></i> What I Did </a></span>
 											</p>
 										</div>
 									</div>

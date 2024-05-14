@@ -134,40 +134,51 @@ project_meta: My Work
 project_header: PROJECT
 project_introduce: 
 #project_load_more: 앞으로 더 많은 프로젝트가 추가될 예정입니다.    # 더보기 내용
-project_load_more_url: #
-project_desc: 앞으로 더 많은 프로젝트가 추가될 예정입니다. 
-project_my_name: 개인 프로젝트
+# project_load_more_url: #
+# project_desc: 앞으로 더 많은 프로젝트가 추가될 예정입니다. 
+# project_my_name: 개인 프로젝트
 
-project_my: # 형식에 맞추어 항목 추가
-- background_url: images/spring.png
-  animation: fadeInLeft
-  name: Spring WEB site
-  description: Spring Framework를 활용한 웹사이트 제작 프로젝트 입니다.
-  detail_url: #
-  readmore_url: #
+# project_my: # 형식에 맞추어 항목 추가
+# - background_url: images/spring.png
+#   animation: fadeInLeft
+#   name: Spring WEB site
+#   description: Spring Framework를 활용한 웹사이트 제작 프로젝트 입니다.
+#   detail_url: #
+#   readmore_url: #
 
-- background_url: images/gitblog.png
-  animation: fadeInLeft
-  name: DEV githib blog
-  description: 깃 블로그를 직접 개발하여 배운 것들을 꾸준히 기록하며 배움을 나눕니다. 
-  detail_url: https://hyesue-lee.github.io/
-  readmore_url: #
+# - background_url: images/gitblog.png
+#   animation: fadeInLeft
+#   name: DEV githib blog
+#   description: 깃 블로그를 직접 개발하여 배운 것들을 꾸준히 기록하며 배움을 나눕니다. 
+#   detail_url: https://hyesue-lee.github.io/
+#   readmore_url: #
 
 project_team_name: 팀 프로젝트
 project_team: # 형식에 맞추어 항목 추가
-- background_url: images/personal_project1.PNG
+- background_url: images/team_project1.PNG
   animation: fadeInRight
-  name: 딥러닝 불량품 검출(2021.04)
-  description: 공장에서 만들어내는 부품의 데이터를 통해 불량품을 검출하는 프로젝트입니다. 
-  detail_url: #
+  name: "23.05.19 ~ 23.06.30 (6주) | BE: 4명, FE: 2명"
+  description: "<strong>\"this.code\"</strong> <br> 실시간 채팅 서비스에서 발생하는 대규모 트래픽 처리를 위한 성능 개선"
+  github_url: https://github.com/murphytklee/chat-challenge-BE
+  readmore_url: https://www.notion.so/this-code-17-7ac95cdad44342be8b2a1ca0a4098bb6?pvs=4
+  what_i_did:  pdf/this_code.pdf
+
+
+- background_url: images/team_project2.PNG
+  animation: fadeInRight
+  name: "23.05.12 ~ 23.05.18 (1주) | BE: 4명, FE: 2명"
+  description: "<strong>\"Airbnb Clone Coding\"</strong> <br> 프론트 협업 및 예약 시스템 구현 경험을 위한 Airbnb 클론 코딩 프로젝트"
+  github_url: https://github.com/taekk1a2a3a/CloneCoding5_BE
   readmore_url: #
+  what_i_did: pdf/airbnb_clone.pdf
 
 - background_url: images/team_project3.PNG
   animation: fadeInRight
-  name: sasdasdasdsadsagjghkukt(2020.05)
-  description: 2019년 드론기술발전에 따른 드론관련 사고들이 많아지고 있음을 파악하고 그에따른 대처가 필요하다고 생각 하여 인공지능을 이용한 Anti Drone Robot 을 개발하였습니다.
-  detail_url: #
+  name: "23.05.05 ~ 23.05.11 (1주) | BE: 4명, FE: 2명"
+  description: "<strong>\"내가 짤명왕\"</strong> <br> 짤 이미지를 게시물에 업로드 한 후, 그 짤에 가장 어울리는 제목을 뽑는 웹서비스"
+  github_url: https://github.com/taekk1a2a3a/meme_nameking_BE
   readmore_url: #
+  what_i_did: pdf/name_king.pdf
 
 project_business_name: Business
 project_business: # 형식에 맞추어 항목 추가
