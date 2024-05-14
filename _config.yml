@@ -10,7 +10,7 @@ url: "https://murphytklee.github.io/"
 
 
 # profile 이미지
-profile_image: images/about.jpg
+profile_image: images/about2.jpg
 
 
 # SNS 아이디
@@ -30,24 +30,25 @@ color_6: e88bd7 #bar6
 
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
 slider_0: # 형식에 맞추어 항목 추가
-- background_url: images/home1.jpg
-  title:  Welcome <br> To my <br> Portfolio
+- background_url: images/home3.jpeg
+  # title:  Welcome !
+  subtitle: Thank you for visiting my portfolio
   position: absolute
   transform: translate (-30%, -30%)
   left: 100px;
   bottom: 100px;
-
+  
 
 # slider type 1  (텍스트가 좌측 정렬된 슬라이더)
 slider_1: # 형식에 맞추어 항목 추가
-- background_url: images/home2.jpg
-  title: JAVA Web <br> Backend Developer
+- background_url: images/home5.jpg
+  title: Web <br> Developer
   subtitle: >- 
-    JAVA <br>
+    Java <br>
     Spring Framework <br>
     JPA / QueryDSL <br>
     html / css / js <br>
-    MySQL / mongoDB <br>
+    MySQL / MongoDB <br>
     AWS / Docker / Kafka <br>
   position: absolute
   transform: translate (-50%, -50%)
@@ -95,37 +96,37 @@ tech_list: # 형식에 맞추어 항목 추가
   color: color-4
   animation: fadeInLeft
   percent: 60
-  mark: 60
+  mark: 100
   content: JAVA 기초, 객제 지향 언어의 기본적인 문법에 대해 알고 있으며, 자료구조 및 알고리즘을 자바로 공부하였습니다.
 - name: Spring Framwork
   color: color-2
   animation: fadeInRight
   percent: 50
-  mark: 50
+  mark: 100
   content: Spring 웹 프로젝트를 통해 REST API / Spring Security / Spring Data JPA를 익혔습니다.
 - name: AWS
   color: color-3
   animation: fadeInLeft
   percent: 40
-  mark: 40
+  mark: 100
   content: AWS EC2(ubuntu), RDS, S3, CodeDeploy을 사용하여 서버를 배포할 수 있습니다. Linux 명령어를 다룰 수 있습니다.
 - name: Docker
   color: color-1
   animation: fadeInRight
   percent: 50
-  mark: 50
+  mark: 100
   content: Docker를 이용해 CI/CD 구축 및 Container Network, Docker File 구성에 익숙하며 Docker Swarm을 이용해 Container Orchestration을 활용한 경험이 있습니다.
 - name: MySQL / MongoDB
   color: color-5
   animation: fadeInRight
   percent: 60
-  mark: 60
+  mark: 100
   content: MySQL의 기본 쿼리문을 활용하여 원하는 데이터를 추출할 수 있습니다. MongoDB Atlas를 사용해 NoSQL Database를 구축한 경험이 있습니다.
 - name: Kafka
   color: none
   animation: fadeInRight
   percent: 30
-  mark: 30
+  mark: 100
   content: STOMP 시스템의 메세지 큐로 Kafka와 sink connect를 활용해 비동기적인 데이터 파이프라인을 구축했습니다.
 
 
