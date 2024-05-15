@@ -874,7 +874,8 @@ body.offcanvas {
     overflow: hidden;
     position: relative;
     z-index: 1;
-    margin-bottom: 25px; }
+    margin-bottom: 25px;
+    height: 200px; }
     .blog-entry .blog-img img {
       position: relative;
       max-width: 100%;
@@ -885,7 +886,10 @@ body.offcanvas {
       transform: scale(1);
       -webkit-transition: 0.3s;
       -o-transition: 0.3s;
-      transition: 0.3s; }
+      transition: 0.3s;
+      width: 100%;  /* 추가된 부분 */
+      height: 100%; /* 추가된 부분 */
+      object-fit: cover; /* 추가된 부분 */ }
   .blog-entry .desc h3 {
     font-size: 16px;
     margin-bottom: 25px;
@@ -1429,3 +1433,14 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+  
+.colorlib-contact {
+  margin-bottom: 100px !important; /* Adjust the margin bottom as needed */
+}
+.colorlib-services {
+  padding-bottom: 1em; 
+}
+
+.colorlib-experience {
+	padding-top: 1em; 
+}

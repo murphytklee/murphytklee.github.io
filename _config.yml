@@ -154,7 +154,7 @@ project_introduce:
 #   detail_url: https://hyesue-lee.github.io/
 #   readmore_url: #
 
-project_team_name: 팀 프로젝트
+# project_team_name: 팀 프로젝트
 project_team: # 형식에 맞추어 항목 추가
 - background_url: images/team_project1.PNG
   animation: fadeInRight
@@ -197,21 +197,21 @@ project_business: # 형식에 맞추어 항목 추가
 
 # Experience
 exp_meta: What have I achieved?
-exp_header: What I Experienced
-exp_content: 기술력 외에도 이러한 역량을 겸비하고 있습니다. 
+exp_header: Other Experience
+# exp_content: 기술력 외에도 이러한 역량을 겸비하고 있습니다. 
 exp_services: # 형식에 맞추어 항목 추가
-- name: 소통력 
-  color: color-2
+- name: 커뮤니케이션 
+  color: color-4
   icon: icon-speech-bubble
-  content: 개발은 협업으로 이루어지기에 소통 또한 중요하다고 생각합니다. 활발한 성격으로 소통에 능합니다.
-- name: 습득력
+  content: 해외경험, 성장력, 소통력, 책임감
+- name: 성장 가능성
   color: color-2
   icon: icon-lightbulb
-  content: 다방면으로 호기심이 많아 탐구하는 습관으로 새로운 것을 만났을 때 빠르게 습득합니다. 
-- name: 자기계발 
+  content: 기술력 외에도 이러한 역량을 겸비하고 있습니다. 기술력 외에도 이러한 역량을 겸비하고 있습니다. 기술력 외에도 이러한 역량을 겸비하고 있습니다. 
+- name: 책임감 
   color: color-3
   icon: icon-book
-  content: 자기계발에 관심이 많습니다. 독서를 통해 인사이트를 얻고 꾸준한 운동으로 체력을 다지고 있습니다.
+  content: 기술력 외에도 이러한 역량을 겸비하고 있습니다. 기술력 외에도 이러한 역량을 겸비하고 있습니다. 기술력 외에도 이러한 역량을 겸비하고 있습니다. 
 exp_counters:
 - name: Subscribers
   count: 3000
@@ -225,23 +225,78 @@ exp_counters:
 carerr_meta: career
 career_header: Work Career
 career_list:
-- name: 금융IT 프리랜서    
-  date: 2021.08~ 현재 
-  content: 여신 재무비율 계산 시스템 개발 <br> 전문거래 EAI 통신 <br>... 
-  color: color-2
+- name: Capstone Design
+  date: 22.08 ~ 22.12 (4개월)
+  content: >-
+    <ul>
+      <li>
+        <strong>센서, 엑츄에이터와 아두이노(C/C++)를 연결해 자동으로 제어되는 스마트 팜 시스템 개발</strong>
+      </li>
+      <li>
+        <strong>블루투스 모듈, 앱 인벤터를 이용해 스마트폰에서 모니터링 및 제어 기능 개발</strong>
+      </li>
+      <li>
+        <strong>학술제 입상</strong>
+      </li>
+    </ul>
+  color: 
   icon: icon-pen2
   animation: fadeInLeft
-- name: 네트워크 솔루션
-  date: 2019.03~2021.07
-  content: 프로젝트 수행 및 커스터마이징 개발<br> Linux 환경의 솔루션 설치 및 구축 <br> 본인인증 연동 및 SSO / SMS API 연계 개발<br> 
-           배치 프로그램 - 사용자 및 데이터 마이그레이션 개발 <br> 조직도 인사 DB 연계 개발  <br> ...   
-  color: color-2
+- name: Internship
+  date: (주) 시스인 18.07 ~ 18.08 (1개월)
+  content: >-
+    <ul>
+      <li>
+        <strong>모터 컨트롤 테스트 프로그램 개발</strong>
+      </li>
+      <li>
+        <strong>마이크로스테이지 성능 실험 및 검증,이동경로 및 패턴 명령 분석</strong>
+      </li>
+      <li>
+        <strong>Visual Studio의 Windows Forms(C#)을 사용하여 모터 컨트롤 프로그램 기획, 설계, 개발</strong>
+      </li>
+    </ul>
+  color: 
   icon: icon-pen2
   animation: fadeInLeft
-- name: 개발 기획
-  date: 2015.03~2016.11
-  content: 정부 연구과제 참여 - 발전 설비현장 성능평가 프로그램 분석 및 설계 <br> ...
-  color: color-2
+- name: Barista
+  date: 카페 바리스타 (4년)
+  content: >-
+    <ul>
+      <li>
+        23.11 ~ 24.05 <strong>Coffee 101 Street</strong>
+      </li>
+      <li>
+        21.02 ~ 23.03 <strong>메가커피</strong>
+      </li>
+      <li>
+        20.07 ~ 21.01 <strong>DailyTea</strong>
+      </li>
+      <li>
+        17.05 ~ 17.11  <strong>델라보보</strong>
+      </li>
+      <li>
+        15.06 ~ 16.01 <strong>browny 70</strong>
+      </li>
+    </ul>
+  color: 
+  icon: icon-pen2
+  animation: fadeInRight
+- name: Progamer
+  date: League of Legends 프로게이머 (1년)
+  content: >-
+    <ul>
+      <li>
+        15.01 ~ 15.03 <strong>Hong Kong Esports, 대만</strong>
+      </li>
+      <li>
+        14.11 ~ 15.01 <strong>Prime ITENJOY, 한국</strong>
+      </li>
+      <li>
+        14.05 ~ 14.11 <strong>Incredible Miracle, 한국</strong>
+      </li>
+    </ul>
+  color: 
   icon: icon-pen2
   animation: fadeInRight
 
@@ -250,51 +305,52 @@ career_list:
 edu_meta: Education
 edu_header: Education
 edu_list:
-- title: UNIVERSITY
-  subtitle: xx대학교 xx과 졸업
-  date: 20xx.03 - 20xx.02
-  content: 대학생활 설명 ~~ 
-- title:  HIGH SCHOOL
-  subtitle: xx고등학교
-  date: 20xx.03 - 20xx.02
+- title: Boot Camp
+  subtitle: 항해99
+  date: 2023.03 - 2023.07
+  content: 웹 개발 백엔드 과정 수료 (Java, Spring)
+- title: University
+  contents:
+    - subtitle: 단국대학교 산업공학과 졸업
+      date: 2021.03 - 2023.02
+      content: 편입
+    - subtitle: 호서대학교 기계공학과 중퇴
+      date: 2018.03 - 2020.02
+      content: 입학
+- title: Certificate
+  subtitle: TOEIC SPEAKING 140 / IH
+  date: 2024.02.25 ~
+
 
 
 
 # Blog
 blog_meta: self-improvement
-blog_header: BLOG and YOUTUBE
+blog_header: Channel
 blog_load_more: 더 발전하기 위해 항상 노력합니다    # 더보기 내용
 blog_load_more_url: #
 blog_list:
-- title: 깃허브 블로그 
-  subtitle: 개발 블로그 운영
-  date: 2021.11
-  content: 깃 블로그를 직접 개발하여 배운 것들을 꾸준히 기록하며 배움을 나눕니다. 
-  thumbnail_url: images/gitblog.png
-  link: https://hyesue-lee.github.io/
-- title: 유튜브 개발채널
-  subtitle: 개발 컨텐츠 유튜브 채널 운영 [치얼스헤나]
-  date: 2020.11
-  content: 유튜브 채널을 운영하며 같은 분야의 다양한 사람들과 소통하고 있습니다. 
-  thumbnail_url: images/youtube.png
-  link: https://youtube.com/channel/UC6YIWKSsY_J7rMYfAb7_tOw
-- title: 티스토리 블로그 
-  subtitle: 이전 블로그
-  date: 2018.03
-  content: 2018년부터 꾸준히 기록하였던 티스토리 첫 블로그 입니다. 
-  thumbnail_url: images/ti.png
-  link: https://cheershennah.tistory.com/
+- title: GitHub
+  # subtitle: 
+  # date: 
+  # content: 알고리즘, 프로젝트 및 개발 공부와 관련된 결과물들을 꾸준히 커밋하고 있습니다.
+  thumbnail_url: images/github2.png
+  link: https://github.com/murphytklee
+- title: Velog
+  # subtitle: 
+  # date: 
+  # content: 
+  thumbnail_url: images/velog.png
+  link: https://velog.io/@murphytklee/posts
 
 
 # Contact
 contact_meta: Get in Touch
 contact_header: Contact
 contact_list:
-- title: hyesue12@gmail.com
-  icon: icon-globe-outline
-- title: +82 10 xxxx xxxx
-  icon: icon-phone
-- title: 서울 특별시 마포구 
+- title: murphytklee@gmail.com
+  icon: icon-mail
+- title: 서울특별시 강서구
   icon: icon-map
 
 contact_message: <em>연락해주셔서 감사합니다.</em> 24시간이내에 회신드리도록 하겠습니다. :)
