@@ -30,7 +30,7 @@ color_6: e88bd7 #bar6
 
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
 slider_0: # 형식에 맞추어 항목 추가
-- background_url: images/home3.jpeg
+- background_url: images/home1.jpg
   # title:  Welcome !
   subtitle: Thank you for visiting my portfolio
   position: absolute
@@ -158,7 +158,7 @@ project_introduce:
 project_team: # 형식에 맞추어 항목 추가
 - background_url: images/team_project1.PNG
   animation: fadeInRight
-  name: "23.05.19 ~ 23.06.30 (6주) | BE: 4명, FE: 2명"
+  name: "2023.05.19 ~ 2023.06.30 (6주) | BE: 4명, FE: 2명"
   description: "<strong>\"this.code\"</strong> <br> 실시간 채팅 서비스에서 발생하는 대규모 트래픽 처리를 위한 성능 개선"
   github_url: https://github.com/murphytklee/chat-challenge-BE
   readmore_url: https://www.notion.so/this-code-17-7ac95cdad44342be8b2a1ca0a4098bb6?pvs=4
@@ -167,7 +167,7 @@ project_team: # 형식에 맞추어 항목 추가
 
 - background_url: images/team_project2.PNG
   animation: fadeInRight
-  name: "23.05.12 ~ 23.05.18 (1주) | BE: 4명, FE: 2명"
+  name: "2023.05.12 ~ 2023.05.18 (1주) | BE: 4명, FE: 2명"
   description: "<strong>\"Airbnb Clone Coding\"</strong> <br> 프론트 협업 및 예약 시스템 구현 경험을 위한 Airbnb 클론 코딩 프로젝트"
   github_url: https://github.com/taekk1a2a3a/CloneCoding5_BE
   readmore_url: #
@@ -175,7 +175,7 @@ project_team: # 형식에 맞추어 항목 추가
 
 - background_url: images/team_project3.PNG
   animation: fadeInRight
-  name: "23.05.05 ~ 23.05.11 (1주) | BE: 4명, FE: 2명"
+  name: "2023.05.05 ~ 2023.05.11 (1주) | BE: 4명, FE: 2명"
   description: "<strong>\"내가 짤명왕\"</strong> <br> 짤 이미지를 게시물에 업로드 한 후, 그 짤에 가장 어울리는 제목을 뽑는 웹서비스"
   github_url: https://github.com/taekk1a2a3a/meme_nameking_BE
   readmore_url: #
@@ -226,7 +226,7 @@ carerr_meta: career
 career_header: Work Career
 career_list:
 - name: Capstone Design
-  date: 22.08 ~ 22.12 (4개월)
+  date: 2022.08 ~ 2022.12 (4개월)
   content: >-
     <ul>
       <li>
@@ -243,7 +243,7 @@ career_list:
   icon: icon-pen2
   animation: fadeInLeft
 - name: Internship
-  date: (주) 시스인 18.07 ~ 18.08 (1개월)
+  date: (주) 시스인 2018.07 ~ 2018.08 (1개월)
   content: >-
     <ul>
       <li>
@@ -264,19 +264,19 @@ career_list:
   content: >-
     <ul>
       <li>
-        23.11 ~ 24.05 <strong>Coffee 101 Street</strong>
+        2023.11 ~ 2024.05 <strong>Coffee 101 Street</strong>
       </li>
       <li>
-        21.02 ~ 23.03 <strong>메가커피</strong>
+        2021.02 ~ 2023.03 <strong>메가커피</strong>
       </li>
       <li>
-        20.07 ~ 21.01 <strong>DailyTea</strong>
+        2020.07 ~ 2021.01 <strong>DailyTea</strong>
       </li>
       <li>
-        17.05 ~ 17.11  <strong>델라보보</strong>
+        2017.05 ~ 2017.11  <strong>델라보보</strong>
       </li>
       <li>
-        15.06 ~ 16.01 <strong>browny 70</strong>
+        2015.06 ~ 2016.01 <strong>browny 70</strong>
       </li>
     </ul>
   color: 
@@ -287,13 +287,13 @@ career_list:
   content: >-
     <ul>
       <li>
-        15.01 ~ 15.03 <strong>Hong Kong Esports, 대만</strong>
+        2015.01 ~ 2015.03 <strong>Hong Kong Esports, 대만</strong>
       </li>
       <li>
-        14.11 ~ 15.01 <strong>Prime ITENJOY, 한국</strong>
+        2014.11 ~ 2015.01 <strong>Prime ITENJOY, 한국</strong>
       </li>
       <li>
-        14.05 ~ 14.11 <strong>Incredible Miracle, 한국</strong>
+        2014.05 ~ 2014.11 <strong>Incredible Miracle, 한국</strong>
       </li>
     </ul>
   color: 
@@ -311,12 +311,12 @@ edu_list:
   content: 웹 개발 백엔드 과정 수료 (Java, Spring)
 - title: University
   contents:
-    - subtitle: 단국대학교 산업공학과 졸업
+    - subtitle: 단국대학교 산업공학과 수석 졸업
       date: 2021.03 - 2023.02
-      content: 편입
+      content: 
     - subtitle: 호서대학교 기계공학과 중퇴
       date: 2018.03 - 2020.02
-      content: 입학
+      content: 
 - title: Certificate
   subtitle: TOEIC SPEAKING 140 / IH
   date: 2024.02.25 ~

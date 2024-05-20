@@ -131,7 +131,7 @@
 										</div>
 									</div>
 								</div>
-							</li><li style="background-image: url( images/home3.jpeg );"> <!-- 메인 첫번째 슬라이드 이미지 -->
+							</li><li style="background-image: url( images/home1.jpg );"> <!-- 메인 첫번째 슬라이드 이미지 -->
 								<div class="overlay"></div>
 								<div class="container-fluid">
 									<div class="row">
@@ -141,7 +141,7 @@
 											<div class="slider-text-inner js-fullheight">
 												<div class="desc" style='float: left;'>
 													<h1></h1>
-													<h2 style='color:white;'>Thank you for visiting my portfolio</h2>
+													<h2 style='color:black;'>Thank you for visiting my portfolio</h2>
 												</div>
 											</div>
 										</div>
@@ -355,7 +355,7 @@
 								<div class="project" style="background-image: url(images/team_project1.PNG);">
 									<div class="desc">
 										<div class="con">
-											<h3><a href="#" target="_blank">23.05.19 ~ 23.06.30 (6주) | BE: 4명, FE: 2명</a></h3>
+											<h3><a href="#" target="_blank">2023.05.19 ~ 2023.06.30 (6주) | BE: 4명, FE: 2명</a></h3>
 											<span><strong>"this.code"</strong> <br> 실시간 채팅 서비스에서 발생하는 대규모 트래픽 처리를 위한 성능 개선</span>
 											<p class="icon">
 												<!-- <span><a href="#"><i class="icon-share3"></i></a></span> -->
@@ -376,7 +376,7 @@
 								<div class="project" style="background-image: url(images/team_project2.PNG);">
 									<div class="desc">
 										<div class="con">
-											<h3><a href="#" target="_blank">23.05.12 ~ 23.05.18 (1주) | BE: 4명, FE: 2명</a></h3>
+											<h3><a href="#" target="_blank">2023.05.12 ~ 2023.05.18 (1주) | BE: 4명, FE: 2명</a></h3>
 											<span><strong>"Airbnb Clone Coding"</strong> <br> 프론트 협업 및 예약 시스템 구현 경험을 위한 Airbnb 클론 코딩 프로젝트</span>
 											<p class="icon">
 												<!-- <span><a href="#"><i class="icon-share3"></i></a></span> -->
@@ -395,7 +395,7 @@
 								<div class="project" style="background-image: url(images/team_project3.PNG);">
 									<div class="desc">
 										<div class="con">
-											<h3><a href="#" target="_blank">23.05.05 ~ 23.05.11 (1주) | BE: 4명, FE: 2명</a></h3>
+											<h3><a href="#" target="_blank">2023.05.05 ~ 2023.05.11 (1주) | BE: 4명, FE: 2명</a></h3>
 											<span><strong>"내가 짤명왕"</strong> <br> 짤 이미지를 게시물에 업로드 한 후, 그 짤에 가장 어울리는 제목을 뽑는 웹서비스</span>
 											<p class="icon">
 												<!-- <span><a href="#"><i class="icon-share3"></i></a></span> -->
@@ -553,7 +553,7 @@
 											</div>
 
 											<div class="timeline-label">
-												<h2><a href="#" target="_blank">Capstone Design </a> <span>22.08 ~ 22.12 (4개월)</span></h2>
+												<h2><a href="#" target="_blank">Capstone Design </a> <span>2022.08 ~ 2022.12 (4개월)</span></h2>
 												<p><ul>
   <li>
     <strong>센서, 엑츄에이터와 아두이노(C/C++)를 연결해 자동으로 제어되는 스마트 팜 시스템 개발</strong>
@@ -578,7 +578,7 @@
 											</div>
 
 											<div class="timeline-label">
-												<h2><a href="#" target="_blank">Internship </a> <span>(주) 시스인 18.07 ~ 18.08 (1개월)</span></h2>
+												<h2><a href="#" target="_blank">Internship </a> <span>(주) 시스인 2018.07 ~ 2018.08 (1개월)</span></h2>
 												<p><ul>
   <li>
     <strong>모터 컨트롤 테스트 프로그램 개발</strong>
@@ -606,19 +606,19 @@
 												<h2><a href="#" target="_blank">Barista </a> <span>카페 바리스타 (4년)</span></h2>
 												<p><ul>
   <li>
-    23.11 ~ 24.05 <strong>Coffee 101 Street</strong>
+    2023.11 ~ 2024.05 <strong>Coffee 101 Street</strong>
   </li>
   <li>
-    21.02 ~ 23.03 <strong>메가커피</strong>
+    2021.02 ~ 2023.03 <strong>메가커피</strong>
   </li>
   <li>
-    20.07 ~ 21.01 <strong>DailyTea</strong>
+    2020.07 ~ 2021.01 <strong>DailyTea</strong>
   </li>
   <li>
-    17.05 ~ 17.11  <strong>델라보보</strong>
+    2017.05 ~ 2017.11  <strong>델라보보</strong>
   </li>
   <li>
-    15.06 ~ 16.01 <strong>browny 70</strong>
+    2015.06 ~ 2016.01 <strong>browny 70</strong>
   </li>
 </ul></p>
 											</div>
@@ -637,13 +637,13 @@
 												<h2><a href="#" target="_blank">Progamer </a> <span>League of Legends 프로게이머 (1년)</span></h2>
 												<p><ul>
   <li>
-    15.01 ~ 15.03 <strong>Hong Kong Esports, 대만</strong>
+    2015.01 ~ 2015.03 <strong>Hong Kong Esports, 대만</strong>
   </li>
   <li>
-    14.11 ~ 15.01 <strong>Prime ITENJOY, 한국</strong>
+    2014.11 ~ 2015.01 <strong>Prime ITENJOY, 한국</strong>
   </li>
   <li>
-    14.05 ~ 14.11 <strong>Incredible Miracle, 한국</strong>
+    2014.05 ~ 2014.11 <strong>Incredible Miracle, 한국</strong>
   </li>
 </ul></p>
 											</div>
@@ -728,13 +728,13 @@
 									  <div class="row">
 										<div class="col-md-4">
 										  <p>
-											단국대학교 산업공학과 졸업
+											단국대학교 산업공학과 수석 졸업
 											<br>
 											2021.03 - 2023.02
 										  </p>
 										</div>
 										<div class="col-md-8">
-										  <p>편입</p>
+										  <p></p>
 										</div>
 									  </div>
 									  
@@ -747,7 +747,7 @@
 										  </p>
 										</div>
 										<div class="col-md-8">
-										  <p>입학</p>
+										  <p></p>
 										</div>
 									  </div>
 									  
